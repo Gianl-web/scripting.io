@@ -1,0 +1,22 @@
+{"data": [
+
+  {
+  "name": "Company Name",
+    "city": "Bergamo",
+    "timezone": "Timezone",
+    "cella":28905031,
+    "location": {
+      "type": "Polygon",
+      "coordinates": [1081505.56035104,5730741.74075292]
+    }},
+{
+    "name": "Company Name",
+    "city": "Bergamo",
+    "timezone": "Timezone",
+    "cella":28905031,
+    "location": {
+      "type": "Polygon",
+      "coordinates": [1081755.56035104,5730741.74075292]
+    }}
+
+    ]}
